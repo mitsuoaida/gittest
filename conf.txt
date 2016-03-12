@@ -1,4 +1,8 @@
 abcd
 efgh
 ijkl
+<<<<<<< HEAD
 mnop master add
+=======
+mnop add
+>>>>>>> 5dbd9a717d7e96aee71acc61b6315c81b9af5a9f
